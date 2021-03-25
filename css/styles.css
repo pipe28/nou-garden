@@ -2486,8 +2486,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #76d275;
+  border-color: #76d275;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10201,7 +10201,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgb(67, 160, 71, 0.6);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -10227,7 +10227,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: #43A047;
   opacity: 1;
 }
 
@@ -10298,3 +10298,13 @@ form .row:first-child .floating-label-form-group {
 }
 
 
+ul.lista {
+  list-style-position: inside;
+  /* list-style-type: none; */
+  /* margin: 0;
+  padding: 0; */
+}
+
+.whatsapp {
+  margin: -5px;
+}
