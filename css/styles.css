@@ -6123,7 +6123,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #76d275 !important;
 }
 
 .bg-secondary {
@@ -10117,7 +10117,7 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #000;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10270,7 +10270,7 @@ h3 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #1abc9c;
+  color: #00701a;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -10307,4 +10307,8 @@ ul.lista {
 
 .whatsapp {
   margin: -5px;
+}
+
+.titulo-servicio {
+  text-align: center;
 }
