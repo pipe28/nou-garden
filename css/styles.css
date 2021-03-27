@@ -556,7 +556,7 @@ pre code {
 @media (max-width: 575px) {
   .fondo-inicial {
     max-width: 100%;
-    padding-top: 20%;
+    padding-top: 18%;
   }
   .masthead, .masthead-heading {
     margin-top: 100px;
@@ -573,8 +573,8 @@ pre code {
     border: 1px solid;
     width: 50%;
   }
-  .page-section {
-    padding: 1rem;
+  h2.page-section-heading {
+    padding-top: 4rem;
   }
 }
 
@@ -613,7 +613,7 @@ pre code {
 
   .fondo-inicial {
     max-width: 100%;
-    padding-top: 7%;
+    padding-top: 6%;
   }
 }
 .row {
@@ -10028,6 +10028,9 @@ h3 {
   font-size: 2.25rem;
   line-height: 2rem;
 }
+h2.page-section-heading {
+  padding-top: 0;
+}
 @media (min-width: 992px) {
   .page-section .page-section-heading {
     font-size: 3rem;
@@ -10161,7 +10164,7 @@ h3 {
 .masthead .masthead-heading {
   /* font-size: 2.75rem;
   line-height: 2.75rem; */
-  margin-top: -210px;
+  margin-top: -190px;
   margin-bottom: 0;
 }
 .masthead .masthead-subheading {
